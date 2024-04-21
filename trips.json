@@ -1,0 +1,262 @@
+[
+    {
+        "model": "bookings.trip",
+        "pk": "0f81eafc-1370-475c-ba48-d13960a3b90a",
+        "fields": {
+            "auto_id": 17,
+            "date_added": "2024-04-16T09:34:05.602Z",
+            "date_updated": "2024-04-16T09:34:05.602Z",
+            "is_deleted": false,
+            "start_point": "358317aa-1d8e-4dda-8943-e3dc1a3bdb75",
+            "end_point": "21773c33-ce1b-43c6-ac0f-28a00c74f136",
+            "amount": 25
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "11725f82-ae4e-4c4a-9026-01aa24792a24",
+        "fields": {
+            "auto_id": 2,
+            "date_added": "2024-04-16T09:21:23.502Z",
+            "date_updated": "2024-04-16T09:21:23.502Z",
+            "is_deleted": false,
+            "start_point": "21773c33-ce1b-43c6-ac0f-28a00c74f136",
+            "end_point": "e8af8c56-bcca-45ca-ac5c-92a942b8d565",
+            "amount": 15
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "17f656d6-43b2-42b7-890d-be579fc2f49d",
+        "fields": {
+            "auto_id": 18,
+            "date_added": "2024-04-16T09:34:18.287Z",
+            "date_updated": "2024-04-16T09:34:18.287Z",
+            "is_deleted": false,
+            "start_point": "358317aa-1d8e-4dda-8943-e3dc1a3bdb75",
+            "end_point": "42e40f4f-bdc0-48ea-8751-826fb3a2ccec",
+            "amount": 20
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "3284c7df-1f5d-41a1-9d5e-5896f316cf40",
+        "fields": {
+            "auto_id": 12,
+            "date_added": "2024-04-16T09:31:36.522Z",
+            "date_updated": "2024-04-16T09:31:36.522Z",
+            "is_deleted": false,
+            "start_point": "e8af8c56-bcca-45ca-ac5c-92a942b8d565",
+            "end_point": "358317aa-1d8e-4dda-8943-e3dc1a3bdb75",
+            "amount": 15
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "499a7d37-20cd-49c1-8485-9fe8c0625b0b",
+        "fields": {
+            "auto_id": 14,
+            "date_added": "2024-04-16T09:32:52.254Z",
+            "date_updated": "2024-04-16T09:32:52.254Z",
+            "is_deleted": false,
+            "start_point": "f75d9d3e-291d-40df-a77b-ad8b70ee6644",
+            "end_point": "42e40f4f-bdc0-48ea-8751-826fb3a2ccec",
+            "amount": 15
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "4da2e148-e3a7-40cb-8e3f-bdd7a3e43cf6",
+        "fields": {
+            "auto_id": 4,
+            "date_added": "2024-04-16T09:22:09.966Z",
+            "date_updated": "2024-04-16T09:22:09.966Z",
+            "is_deleted": false,
+            "start_point": "21773c33-ce1b-43c6-ac0f-28a00c74f136",
+            "end_point": "358317aa-1d8e-4dda-8943-e3dc1a3bdb75",
+            "amount": 25
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "58dfb571-bf80-4522-abac-71f323cdf711",
+        "fields": {
+            "auto_id": 6,
+            "date_added": "2024-04-16T09:26:00.402Z",
+            "date_updated": "2024-04-16T09:26:00.402Z",
+            "is_deleted": false,
+            "start_point": "42e40f4f-bdc0-48ea-8751-826fb3a2ccec",
+            "end_point": "e8af8c56-bcca-45ca-ac5c-92a942b8d565",
+            "amount": 10
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "611c86b0-b847-4dc9-a895-7811c8d34891",
+        "fields": {
+            "auto_id": 3,
+            "date_added": "2024-04-16T09:21:50.159Z",
+            "date_updated": "2024-04-16T09:21:50.159Z",
+            "is_deleted": false,
+            "start_point": "21773c33-ce1b-43c6-ac0f-28a00c74f136",
+            "end_point": "f75d9d3e-291d-40df-a77b-ad8b70ee6644",
+            "amount": 20
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "74312fbd-369b-496f-b81f-7c8754ac298b",
+        "fields": {
+            "auto_id": 5,
+            "date_added": "2024-04-16T09:23:34.361Z",
+            "date_updated": "2024-04-16T09:23:34.361Z",
+            "is_deleted": false,
+            "start_point": "42e40f4f-bdc0-48ea-8751-826fb3a2ccec",
+            "end_point": "21773c33-ce1b-43c6-ac0f-28a00c74f136",
+            "amount": 10
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "837c86f7-0167-4cc9-9eb2-e9c0ae340725",
+        "fields": {
+            "auto_id": 8,
+            "date_added": "2024-04-16T09:29:35.810Z",
+            "date_updated": "2024-04-16T09:29:35.810Z",
+            "is_deleted": false,
+            "start_point": "42e40f4f-bdc0-48ea-8751-826fb3a2ccec",
+            "end_point": "358317aa-1d8e-4dda-8943-e3dc1a3bdb75",
+            "amount": 20
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "8f291c6c-b318-4e01-abd7-fdf238f94afc",
+        "fields": {
+            "auto_id": 11,
+            "date_added": "2024-04-16T09:31:23.332Z",
+            "date_updated": "2024-04-16T09:31:23.332Z",
+            "is_deleted": false,
+            "start_point": "e8af8c56-bcca-45ca-ac5c-92a942b8d565",
+            "end_point": "f75d9d3e-291d-40df-a77b-ad8b70ee6644",
+            "amount": 10
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "9296bfcf-d108-4579-beff-821288b73794",
+        "fields": {
+            "auto_id": 1,
+            "date_added": "2024-04-16T09:21:03.313Z",
+            "date_updated": "2024-04-16T09:21:03.313Z",
+            "is_deleted": false,
+            "start_point": "21773c33-ce1b-43c6-ac0f-28a00c74f136",
+            "end_point": "42e40f4f-bdc0-48ea-8751-826fb3a2ccec",
+            "amount": 10
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "a20220c6-4b9c-4221-9794-a508ef20f1d3",
+        "fields": {
+            "auto_id": 15,
+            "date_added": "2024-04-16T09:33:08.982Z",
+            "date_updated": "2024-04-16T09:33:08.982Z",
+            "is_deleted": false,
+            "start_point": "f75d9d3e-291d-40df-a77b-ad8b70ee6644",
+            "end_point": "e8af8c56-bcca-45ca-ac5c-92a942b8d565",
+            "amount": 10
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "b935c2af-beb8-40e9-bf2a-4be1e5b3046a",
+        "fields": {
+            "auto_id": 19,
+            "date_added": "2024-04-16T09:34:32.126Z",
+            "date_updated": "2024-04-16T09:34:32.127Z",
+            "is_deleted": false,
+            "start_point": "358317aa-1d8e-4dda-8943-e3dc1a3bdb75",
+            "end_point": "e8af8c56-bcca-45ca-ac5c-92a942b8d565",
+            "amount": 15
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "cab2876c-bcc1-4d1e-961e-fe0345c2ed78",
+        "fields": {
+            "auto_id": 7,
+            "date_added": "2024-04-16T09:29:06.366Z",
+            "date_updated": "2024-04-16T09:29:06.366Z",
+            "is_deleted": false,
+            "start_point": "42e40f4f-bdc0-48ea-8751-826fb3a2ccec",
+            "end_point": "f75d9d3e-291d-40df-a77b-ad8b70ee6644",
+            "amount": 15
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "cc8bc388-b972-42b5-b2a2-7bdc19e10eb4",
+        "fields": {
+            "auto_id": 13,
+            "date_added": "2024-04-16T09:32:29.456Z",
+            "date_updated": "2024-04-16T09:32:29.456Z",
+            "is_deleted": false,
+            "start_point": "f75d9d3e-291d-40df-a77b-ad8b70ee6644",
+            "end_point": "21773c33-ce1b-43c6-ac0f-28a00c74f136",
+            "amount": 20
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "cd10170a-5514-4101-b8c8-051e70aa3ae8",
+        "fields": {
+            "auto_id": 20,
+            "date_added": "2024-04-16T09:34:51.662Z",
+            "date_updated": "2024-04-16T09:34:51.662Z",
+            "is_deleted": false,
+            "start_point": "358317aa-1d8e-4dda-8943-e3dc1a3bdb75",
+            "end_point": "f75d9d3e-291d-40df-a77b-ad8b70ee6644",
+            "amount": 10
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "d6f1f12b-82e0-40c9-8630-6b5b96194150",
+        "fields": {
+            "auto_id": 10,
+            "date_added": "2024-04-16T09:31:04.570Z",
+            "date_updated": "2024-04-16T09:31:04.570Z",
+            "is_deleted": false,
+            "start_point": "e8af8c56-bcca-45ca-ac5c-92a942b8d565",
+            "end_point": "42e40f4f-bdc0-48ea-8751-826fb3a2ccec",
+            "amount": 10
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "df016e4d-266e-403e-8a5a-dbcbdb7f8d35",
+        "fields": {
+            "auto_id": 9,
+            "date_added": "2024-04-16T09:30:05.476Z",
+            "date_updated": "2024-04-16T09:30:05.476Z",
+            "is_deleted": false,
+            "start_point": "e8af8c56-bcca-45ca-ac5c-92a942b8d565",
+            "end_point": "21773c33-ce1b-43c6-ac0f-28a00c74f136",
+            "amount": 15
+        }
+    },
+    {
+        "model": "bookings.trip",
+        "pk": "f4bea2fd-d28e-41e6-9091-3367384dc6a1",
+        "fields": {
+            "auto_id": 16,
+            "date_added": "2024-04-16T09:33:21.487Z",
+            "date_updated": "2024-04-16T09:33:21.487Z",
+            "is_deleted": false,
+            "start_point": "f75d9d3e-291d-40df-a77b-ad8b70ee6644",
+            "end_point": "358317aa-1d8e-4dda-8943-e3dc1a3bdb75",
+            "amount": 10
+        }
+    }
+]

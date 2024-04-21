@@ -1,0 +1,62 @@
+[
+    {
+        "model": "bookings.station",
+        "pk": "21773c33-ce1b-43c6-ac0f-28a00c74f136",
+        "fields": {
+            "auto_id": 1,
+            "date_added": "2024-04-16T09:18:48.500Z",
+            "date_updated": "2024-04-16T09:18:48.501Z",
+            "is_deleted": false,
+            "name": "Aluva",
+            "slug": "aluva"
+        }
+    },
+    {
+        "model": "bookings.station",
+        "pk": "358317aa-1d8e-4dda-8943-e3dc1a3bdb75",
+        "fields": {
+            "auto_id": 5,
+            "date_added": "2024-04-16T09:20:10.343Z",
+            "date_updated": "2024-04-16T09:20:10.343Z",
+            "is_deleted": false,
+            "name": "Muttom",
+            "slug": "muttom"
+        }
+    },
+    {
+        "model": "bookings.station",
+        "pk": "42e40f4f-bdc0-48ea-8751-826fb3a2ccec",
+        "fields": {
+            "auto_id": 2,
+            "date_added": "2024-04-16T09:19:04.994Z",
+            "date_updated": "2024-04-16T09:19:04.994Z",
+            "is_deleted": false,
+            "name": "Pulinchodu",
+            "slug": "pulinchodu"
+        }
+    },
+    {
+        "model": "bookings.station",
+        "pk": "e8af8c56-bcca-45ca-ac5c-92a942b8d565",
+        "fields": {
+            "auto_id": 3,
+            "date_added": "2024-04-16T09:19:29.067Z",
+            "date_updated": "2024-04-16T09:19:29.067Z",
+            "is_deleted": false,
+            "name": "Companyppadi",
+            "slug": "companyppadi"
+        }
+    },
+    {
+        "model": "bookings.station",
+        "pk": "f75d9d3e-291d-40df-a77b-ad8b70ee6644",
+        "fields": {
+            "auto_id": 4,
+            "date_added": "2024-04-16T09:19:49.655Z",
+            "date_updated": "2024-04-16T09:19:49.655Z",
+            "is_deleted": false,
+            "name": "Ambattukavu",
+            "slug": "ambattukavu"
+        }
+    }
+]
